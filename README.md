@@ -1,7 +1,7 @@
 - 👋 Hola soy @Sebasrom244
 - 👀 Me interesa la creación de aplicaciones y sistemas web.
 - 💞️ Busco colaborar en desarrollos web en modo freelancer.
-- 📫 Me pueden contactar mediante correo electrónico: sebastianromero@gmail.com
+- 📫 Me pueden contactar mediante correo electrónico: sebastianromero01@gmail.com
 
 
 <!---
